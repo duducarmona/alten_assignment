@@ -1,0 +1,18 @@
+.columns {
+  display: flex;
+}
+
+.green-bg {
+  background-color: #359254;
+  color: white;
+}
+
+.yellow-bg {
+  background-color: #e8bd02;
+  color: white;
+}
+
+.red-bg {
+  background-color: #eb2c3a;
+  color: white;
+}
